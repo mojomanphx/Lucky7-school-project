@@ -1,0 +1,1 @@
+# Lucky7-school-project
