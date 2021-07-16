@@ -13,12 +13,12 @@ I have never heard of this game before the project.  I needed to complete resear
 
 **_My Thoughts_**
 
-This was one of the final projects in my Java II class.  The program is a great example of my understanding and practical application of object oriented programming concepts. It uses methods effetively to capture Object Orientation and extends the JPanel with the impliments ActionListner to demostrate my understanding of inheritance. The program utilizes a variety of nested loops to effectively handle a multitude of tasks from loading and changing arrays, building / loading / assigning properties to objects, making decisions and analyzing information. The program required a large majority of the skills I learned during both my Java I & II classes to complete.  I feel that this is a good barometer of type of work that I deliver.  
+This was one of the final projects in my Java II class.  The program is a great example of my understanding and practical application of object-oriented programming concepts. It uses methods effectively to capture Object Orientation and extends the JPanel with the implements ActionListener to demonstrate my understanding of inheritance. The program utilizes a variety of nested loops to effectively handle a multitude of tasks from loading and changing arrays, building / loading / assigning properties to objects, making decisions and analyzing information. The program required a large majority of the skills I learned during both my Java I & II classes to complete.  I feel that this is a good barometer of type of work that I deliver.  
 
 **_Changes_**
 
-There is a bunch of things that I am proud of in this program but I would still make significant changes.  
-* I would want to make the game a mult-player game with players alternating turns with scores being displayed after every turn.  
+There is a bunch of things that I am proud of in this program, but I would still make significant changes.  
+* I would want to make the game a multi-player game with players alternating turns with scores being displayed after every turn.  
 * I would also create a file that could hold player stats to track overall play over time.  
-* Also I would add additional graphics and animations to increase the overall appeal and playablity.    
+* Also I would add additional graphics and animations to increase the overall appeal and playability.    
 
